@@ -51,6 +51,3 @@ This project uses OpenCV and the cvzone library to create a hand tracking interf
     - Hold up 3 fingers: Opens LinkedIn.
     - Hold up 4 fingers: Opens Portfolio.
     - Hold up 5 fingers: Reserved for future use.
-
-## File Structure
-
